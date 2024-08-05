@@ -27,7 +27,7 @@ Environment:
 
 Please refer to details in the original project page:(https://github.com/jindongwang/transferlearning)
 
-The main implementation of this work is at alg.alg.Our
+The main implementation of this work is at alg.algs.Our
 
 
 Please contact me via email (x10045660@gmail.com) if you have any questions regarding this project.
