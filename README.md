@@ -1,4 +1,4 @@
-# Domain Generalization for Sensor-based Cross-person Activity Recognition
+# Generalizable Sensor-Based Activity Recognition via Feature and Logit-Level Contrastive Regularization
 
 ## Preparation
 
