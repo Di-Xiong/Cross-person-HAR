@@ -1,4 +1,4 @@
-# Generalizable Sensor-Based Activity Recognition via Feature and Logit-Level Contrastive Regularization
+# Cross-person-HAR
 
 ## Preparation
 
